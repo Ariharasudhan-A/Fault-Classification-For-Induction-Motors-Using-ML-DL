@@ -62,5 +62,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out if you have any questions, suggestions, or feedback. You can contact me at:
 
-**Your Name**  
-Email: [your-email@example.com](mailto:your-email@example.com)
+**Ariharasudhan A** - [ariadaikalam1234@gmail.com](mailto:your-email@example.com)
+
+## Contact
+
+For any queries, feel free to reach out to:
+- **Ariharasudhan A** - [Email](ariadaikalam1234@gmail.com)
+- **Asvikaa K M R** - [Email](asvikaakmr1@gmail.com)
+
