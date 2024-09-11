@@ -52,6 +52,7 @@ Each model is evaluated based on performance metrics including:
 ## Results
 
 The notebook provides a detailed comparison of all models trained on both the CWRU and MFPT datasets. The key findings are summarized in the form of tables and plots, comparing performance metrics for each model. The ensemble model achieves the highest performance, achieving the classification accuracy of **97%**.
+
 ![image](https://github.com/user-attachments/assets/7b5069ac-6e4b-41e5-89c4-91f5b4e99195)
 
 ## License
